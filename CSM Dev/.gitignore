@@ -1,0 +1,30 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vs/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Debugging files
+*.pdb
+*.ilk
+*.meta
+
+# Configuration files
+appsettings.json
+secrets.json
