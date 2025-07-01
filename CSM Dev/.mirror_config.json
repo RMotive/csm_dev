@@ -1,0 +1,14 @@
+{
+  "Sources": [
+    {
+      "Language": "csharp",
+      "Path": "./"
+    }
+  ],
+  "Targets": [
+    {
+      "Language": "dart",
+      "Path": "./"
+    }
+  ]    
+} 
