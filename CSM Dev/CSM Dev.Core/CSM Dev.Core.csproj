@@ -5,6 +5,13 @@
     <RootNamespace>CSM_Dev.Core</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+	  <PackageId> CSM_Dev.Core </PackageId>
+	  <Version>0.0.1-alpha</Version>
+	  <Authors>CSM</Authors>
+	  <Company>CSM</Company>
+	  <Description>Library that provides abstractions and attributes to configure mirroring at a Solution</Description>
+	  <RepositoryUrl></RepositoryUrl>
   </PropertyGroup>
 
 </Project>
